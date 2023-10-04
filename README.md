@@ -1,2 +1,3 @@
 # Calculator
 Re-Design of the Calculator
+Usually, we use the Calculator that is very Simple in Design, so it struck me on what if I could re-design the Calculator so that it may seem more elegant... 
